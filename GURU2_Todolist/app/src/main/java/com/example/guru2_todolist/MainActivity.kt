@@ -10,4 +10,5 @@ class MainActivity : AppCompatActivity() {
     }
 
     //주석으로 연동확인
+    //다시한번 확인-민지
 }
