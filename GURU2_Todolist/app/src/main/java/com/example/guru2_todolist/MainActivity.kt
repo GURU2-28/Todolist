@@ -9,4 +9,5 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
     }
     //주석 다시추가-민지
+    //주석 추가-혜주
 }
