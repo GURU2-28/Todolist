@@ -1,27 +1,15 @@
 [
     {
-        "merged": "C:\\GURU\\Todolist\\GURU2_Todolist\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
-        "source": "C:\\GURU\\Todolist\\GURU2_Todolist\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
-    },
-    {
         "merged": "C:\\GURU\\Todolist\\GURU2_Todolist\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
         "source": "C:\\GURU\\Todolist\\GURU2_Todolist\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
     },
     {
-        "merged": "C:\\GURU\\Todolist\\GURU2_Todolist\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_background.xml.flat",
-        "source": "C:\\GURU\\Todolist\\GURU2_Todolist\\app\\src\\main\\res\\drawable-v24\\ic_launcher_background.xml"
-    },
-    {
-        "merged": "C:\\GURU\\Todolist\\GURU2_Todolist\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_main.xml.flat",
-        "source": "C:\\GURU\\Todolist\\GURU2_Todolist\\app\\src\\main\\res\\layout\\fragment_main.xml"
+        "merged": "C:\\GURU\\Todolist\\GURU2_Todolist\\app\\build\\intermediates\\res\\merged\\debug\\drawable_edittext_rounded_corner_rectangle.xml.flat",
+        "source": "C:\\GURU\\Todolist\\GURU2_Todolist\\app\\src\\main\\res\\drawable\\edittext_rounded_corner_rectangle.xml"
     },
     {
         "merged": "C:\\GURU\\Todolist\\GURU2_Todolist\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
         "source": "C:\\GURU\\Todolist\\GURU2_Todolist\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
-    },
-    {
-        "merged": "C:\\GURU\\Todolist\\GURU2_Todolist\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
-        "source": "C:\\GURU\\Todolist\\GURU2_Todolist\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
     },
     {
         "merged": "C:\\GURU\\Todolist\\GURU2_Todolist\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
@@ -32,8 +20,8 @@
         "source": "C:\\GURU\\Todolist\\GURU2_Todolist\\app\\src\\main\\res\\layout\\todo_item.xml"
     },
     {
-        "merged": "C:\\GURU\\Todolist\\GURU2_Todolist\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
-        "source": "C:\\GURU\\Todolist\\GURU2_Todolist\\app\\src\\main\\res\\layout\\activity_main.xml"
+        "merged": "C:\\GURU\\Todolist\\GURU2_Todolist\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_menu_24.xml.flat",
+        "source": "C:\\GURU\\Todolist\\GURU2_Todolist\\app\\src\\main\\res\\drawable\\ic_baseline_menu_24.xml"
     },
     {
         "merged": "C:\\GURU\\Todolist\\GURU2_Todolist\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_baseline_sentiment_satisfied_24.xml.flat",
@@ -44,10 +32,6 @@
         "source": "C:\\GURU\\Todolist\\GURU2_Todolist\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\GURU\\Todolist\\GURU2_Todolist\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "C:\\GURU\\Todolist\\GURU2_Todolist\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
-    },
-    {
         "merged": "C:\\GURU\\Todolist\\GURU2_Todolist\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
         "source": "C:\\GURU\\Todolist\\GURU2_Todolist\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
     },
@@ -56,16 +40,60 @@
         "source": "C:\\GURU\\Todolist\\GURU2_Todolist\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
     },
     {
+        "merged": "C:\\GURU\\Todolist\\GURU2_Todolist\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_control_point_24.xml.flat",
+        "source": "C:\\GURU\\Todolist\\GURU2_Todolist\\app\\src\\main\\res\\drawable\\ic_baseline_control_point_24.xml"
+    },
+    {
         "merged": "C:\\GURU\\Todolist\\GURU2_Todolist\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
         "source": "C:\\GURU\\Todolist\\GURU2_Todolist\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\GURU\\Todolist\\GURU2_Todolist\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "C:\\GURU\\Todolist\\GURU2_Todolist\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+        "merged": "C:\\GURU\\Todolist\\GURU2_Todolist\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_restore_from_trash_24.xml.flat",
+        "source": "C:\\GURU\\Todolist\\GURU2_Todolist\\app\\src\\main\\res\\drawable\\ic_baseline_restore_from_trash_24.xml"
     },
     {
         "merged": "C:\\GURU\\Todolist\\GURU2_Todolist\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
         "source": "C:\\GURU\\Todolist\\GURU2_Todolist\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\GURU\\Todolist\\GURU2_Todolist\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_round.xml.flat",
+        "source": "C:\\GURU\\Todolist\\GURU2_Todolist\\app\\src\\main\\res\\drawable\\button_round.xml"
+    },
+    {
+        "merged": "C:\\GURU\\Todolist\\GURU2_Todolist\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\GURU\\Todolist\\GURU2_Todolist\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\GURU\\Todolist\\GURU2_Todolist\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\GURU\\Todolist\\GURU2_Todolist\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\GURU\\Todolist\\GURU2_Todolist\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_background.xml.flat",
+        "source": "C:\\GURU\\Todolist\\GURU2_Todolist\\app\\src\\main\\res\\drawable-v24\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\GURU\\Todolist\\GURU2_Todolist\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_main.xml.flat",
+        "source": "C:\\GURU\\Todolist\\GURU2_Todolist\\app\\src\\main\\res\\layout\\fragment_main.xml"
+    },
+    {
+        "merged": "C:\\GURU\\Todolist\\GURU2_Todolist\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\GURU\\Todolist\\GURU2_Todolist\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\GURU\\Todolist\\GURU2_Todolist\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\GURU\\Todolist\\GURU2_Todolist\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\GURU\\Todolist\\GURU2_Todolist\\app\\build\\intermediates\\res\\merged\\debug\\menu_main.xml.flat",
+        "source": "C:\\GURU\\Todolist\\GURU2_Todolist\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\GURU\\Todolist\\GURU2_Todolist\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\GURU\\Todolist\\GURU2_Todolist\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\GURU\\Todolist\\GURU2_Todolist\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\GURU\\Todolist\\GURU2_Todolist\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
     },
     {
         "merged": "C:\\GURU\\Todolist\\GURU2_Todolist\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_achieve.xml.flat",
@@ -86,9 +114,5 @@
     {
         "merged": "C:\\GURU\\Todolist\\GURU2_Todolist\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_baseline_sentiment_very_dissatisfied_24.xml.flat",
         "source": "C:\\GURU\\Todolist\\GURU2_Todolist\\app\\src\\main\\res\\drawable-v24\\ic_baseline_sentiment_very_dissatisfied_24.xml"
-    },
-    {
-        "merged": "C:\\GURU\\Todolist\\GURU2_Todolist\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
-        "source": "C:\\GURU\\Todolist\\GURU2_Todolist\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
     }
 ]

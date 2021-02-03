@@ -982,6 +982,7 @@ color error_color_material_dark
 color error_color_material_light
 color foreground_material_dark
 color foreground_material_light
+color gray
 color highlighted_text_material_dark
 color highlighted_text_material_light
 color material_blue_grey_800
@@ -1536,12 +1537,17 @@ drawable btn_radio_off_mtrl
 drawable btn_radio_off_to_on_mtrl_animation
 drawable btn_radio_on_mtrl
 drawable btn_radio_on_to_off_mtrl_animation
+drawable button_round
 drawable design_bottom_navigation_item_background
 drawable design_fab_background
 drawable design_ic_visibility
 drawable design_ic_visibility_off
 drawable design_password_eye
 drawable design_snackbar_background
+drawable edittext_rounded_corner_rectangle
+drawable ic_baseline_control_point_24
+drawable ic_baseline_menu_24
+drawable ic_baseline_restore_from_trash_24
 drawable ic_baseline_sentiment_dissatisfied_24
 drawable ic_baseline_sentiment_satisfied_24
 drawable ic_baseline_sentiment_very_dissatisfied_24
@@ -1634,6 +1640,7 @@ id accessibility_custom_action_8
 id accessibility_custom_action_9
 id achieveImage
 id achieveText
+id action_achieve
 id action_bar
 id action_bar_activity_content
 id action_bar_container
@@ -1673,6 +1680,9 @@ id beginning
 id blocking
 id bottom
 id bounce
+id btnComp
+id btnMemo
+id btn_OK
 id buttonPanel
 id cache_measures
 id cancel_button
@@ -1732,8 +1742,8 @@ id dropdown_menu
 id easeIn
 id easeInOut
 id easeOut
-id editTextDate
 id edit_query
+id edtbar
 id end
 id enterAlways
 id enterAlwaysCollapsed
@@ -1769,7 +1779,6 @@ id ignore
 id ignoreRequest
 id image
 id info
-id inputToDo
 id invisible
 id italic
 id item_touch_helper_previous_elevation
@@ -1836,6 +1845,7 @@ id parentPanel
 id parentRelative
 id parent_matrix
 id password_toggle
+id past_todo
 id path
 id pathRelative
 id peekHeight
@@ -1855,7 +1865,6 @@ id right_icon
 id right_side
 id rounded
 id row_index_key
-id saveButton
 id save_non_transition_alpha
 id save_overlay_view
 id sawtooth
@@ -2096,6 +2105,7 @@ layout text_view_with_line_height_from_style
 layout text_view_with_theme_line_height
 layout text_view_without_line_height
 layout todo_item
+menu main
 mipmap ic_launcher
 mipmap ic_launcher_round
 plurals mtrl_badge_content_description
