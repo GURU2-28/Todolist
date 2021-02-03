@@ -1,54 +1,53 @@
 <?xml version="1.0" encoding="utf-8"?>
-<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:app="http://schemas.android.com/apk/res-auto"
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
-    android:layout_marginTop="4dp"
-    android:layout_marginBottom="4dp"
-    android:paddingLeft="4dp"
-    android:paddingTop="8dp"
-    android:paddingRight="4dp"
-    android:paddingBottom="4dp"
-    app:cardBackgroundColor="@color/white"
-    app:cardCornerRadius="20dp"
-    app:cardElevation="5dp">
+    android:orientation="vertical">
 
     <LinearLayout
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
+        android:layout_height="100dp"
         android:orientation="horizontal">
 
         <LinearLayout
-            android:layout_width="347dp"
+            android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:layout_weight="1"
             android:orientation="vertical">
 
             <CheckBox
                 android:id="@+id/checkBox"
-                android:layout_width="309dp"
-                android:layout_height="58dp"
-                android:layout_weight="1" />
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"/>
 
             <EditText
                 android:id="@+id/memo"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:layout_weight="1"
-                android:ems="10"
                 android:hint="memo"
                 android:inputType="textPersonName" />
-
         </LinearLayout>
 
-        <ImageButton
-            android:id="@+id/deleteButton"
-            android:layout_width="63dp"
+        <LinearLayout
+            android:layout_width="40dp"
             android:layout_height="match_parent"
-            android:layout_weight="5"
-            android:background="#FFFFFF"
-            android:tint="#333333"
-            app:srcCompat="@android:drawable/ic_menu_delete" />
+            android:orientation="vertical">
 
+            <ImageView
+                android:id="@+id/edtbar"
+                android:layout_width="match_parent"
+                android:layout_height="47dp"
+                android:layout_weight="0.1"
+                android:src="@drawable/ic_baseline_menu_24" />
+
+            <ImageButton
+                android:id="@+id/deleteButton"
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+                android:layout_weight="5"
+                android:background="#FFFFFF"
+                android:src="@android:drawable/ic_menu_delete"
+                android:tint="#333333" />
+        </LinearLayout>
     </LinearLayout>
-</androidx.cardview.widget.CardView>
+</LinearLayout>

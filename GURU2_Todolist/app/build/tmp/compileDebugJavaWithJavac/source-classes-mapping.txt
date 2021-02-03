@@ -1,0 +1,2 @@
+com/example/guru2_todolist/BuildConfig.java
+ com.example.guru2_todolist.BuildConfig
