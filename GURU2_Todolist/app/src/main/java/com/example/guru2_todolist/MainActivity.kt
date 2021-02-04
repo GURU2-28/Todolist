@@ -9,7 +9,7 @@ import android.view.MenuItem
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_main)
+        setContentView(R.layout.activity_list)
     }
     //주석 다시추가-민지
     //주석 추가-혜주
