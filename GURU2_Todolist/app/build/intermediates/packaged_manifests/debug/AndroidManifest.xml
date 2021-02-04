@@ -9,6 +9,7 @@
         android:targetSdkVersion="30" />
 
     <application
+        android:name="com.example.guru2_todolist.MyApplication"
         android:allowBackup="true"
         android:appComponentFactory="androidx.core.app.CoreComponentFactory"
         android:debuggable="true"
@@ -17,8 +18,8 @@
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:testOnly="true"
         android:theme="@style/Theme.GURU2_Todolist" >
+        <activity android:name="com.example.guru2_todolist.EditActivity" />
         <activity android:name="com.example.guru2_todolist.MainActivity" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
