@@ -13,7 +13,7 @@ class TodoListAdapter(realmResult:OrderedRealmCollection<Todo>): RealmBaseAdapte
         val view:View
         if(convertView==null){
             view= LayoutInflater.from(parent?.context)
-                .inflate(R.layout.todo_item,parent,false)
+                .inflate(R.layout.item_todo,parent,false)
             vh=ViewHolder(view)
             view.tag=vh;
         }else{
