@@ -4,9 +4,19 @@ io/realm/DefaultRealmModuleMediator.java
  io.realm.DefaultRealmModuleMediator
 com/example/guru2_todolist/BuildConfig.java
  com.example.guru2_todolist.BuildConfig
+com/example/guru2_todolist/databinding/ItemTodoBinding.java
+ com.example.guru2_todolist.databinding.ItemTodoBinding
 io/realm/DefaultRealmModule.java
  io.realm.DefaultRealmModule
+com/example/guru2_todolist/databinding/ActivityEditBinding.java
+ com.example.guru2_todolist.databinding.ActivityEditBinding
 io/realm/com_example_guru2_todolist_TodoRealmProxy.java
  io.realm.com_example_guru2_todolist_TodoRealmProxy
  io.realm.com_example_guru2_todolist_TodoRealmProxy$ClassNameHelper
  io.realm.com_example_guru2_todolist_TodoRealmProxy$TodoColumnInfo
+com/example/guru2_todolist/databinding/ActivityAchieveBinding.java
+ com.example.guru2_todolist.databinding.ActivityAchieveBinding
+com/example/guru2_todolist/databinding/ActivityListBinding.java
+ com.example.guru2_todolist.databinding.ActivityListBinding
+com/example/guru2_todolist/databinding/FragmentMainBinding.java
+ com.example.guru2_todolist.databinding.FragmentMainBinding
