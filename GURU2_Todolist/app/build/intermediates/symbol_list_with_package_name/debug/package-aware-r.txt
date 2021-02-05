@@ -1545,7 +1545,10 @@ drawable design_ic_visibility_off
 drawable design_password_eye
 drawable design_snackbar_background
 drawable edittext_rounded_corner_rectangle
+drawable ic_baseline_add_24
 drawable ic_baseline_control_point_24
+drawable ic_baseline_delete_24
+drawable ic_baseline_done_24
 drawable ic_baseline_menu_24
 drawable ic_baseline_restore_from_trash_24
 drawable ic_baseline_sentiment_dissatisfied_24
@@ -1640,7 +1643,6 @@ id accessibility_custom_action_8
 id accessibility_custom_action_9
 id achieveImage
 id achieveText
-id action_achieve
 id action_bar
 id action_bar_activity_content
 id action_bar_container
@@ -1685,13 +1687,13 @@ id btnMemo
 id btn_OK
 id buttonPanel
 id cache_measures
+id calendarView
 id cancel_button
 id center
 id center_horizontal
 id center_vertical
 id chain
 id chains
-id checkBox
 id checkbox
 id checked
 id chip
@@ -1718,7 +1720,8 @@ id decelerate
 id decelerateAndComplete
 id decor_content_parent
 id default_activity_button
-id deleteButton
+id deleteFab
+id delete_Button
 id deltaRelative
 id dependency_ordering
 id design_bottom_sheet
@@ -1732,6 +1735,7 @@ id direct
 id disableHome
 id disablePostScroll
 id disableScroll
+id doneFab
 id dragDown
 id dragEnd
 id dragLeft
@@ -1743,6 +1747,7 @@ id easeIn
 id easeInOut
 id easeOut
 id edit_query
+id edt_Todo
 id edtbar
 id end
 id enterAlways
@@ -1792,7 +1797,9 @@ id line1
 id line3
 id linear
 id listMode
+id listView
 id list_item
+id mRecyclerView
 id masked
 id memo
 id message
@@ -1845,7 +1852,6 @@ id parentPanel
 id parentRelative
 id parent_matrix
 id password_toggle
-id past_todo
 id path
 id pathRelative
 id peekHeight
@@ -1949,6 +1955,7 @@ id time
 id title
 id titleDividerNoCustom
 id title_template
+id todoEditText
 id toggle
 id top
 id topPanel
@@ -2034,7 +2041,8 @@ layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
 layout activity_achieve
-layout activity_main
+layout activity_edit
+layout activity_list
 layout custom_dialog
 layout design_bottom_navigation_item
 layout design_bottom_sheet_dialog
@@ -2052,6 +2060,7 @@ layout design_navigation_menu_item
 layout design_text_input_end_icon
 layout design_text_input_start_icon
 layout fragment_main
+layout item_todo
 layout mtrl_alert_dialog
 layout mtrl_alert_dialog_actions
 layout mtrl_alert_dialog_title
@@ -2104,8 +2113,6 @@ layout text_view_with_line_height_from_layout
 layout text_view_with_line_height_from_style
 layout text_view_with_theme_line_height
 layout text_view_without_line_height
-layout todo_item
-menu main
 mipmap ic_launcher
 mipmap ic_launcher_round
 plurals mtrl_badge_content_description
@@ -2139,6 +2146,7 @@ string abc_toolbar_collapse_description
 string app_name
 string appbar_scrolling_view_behavior
 string bottom_sheet_behavior
+string calendar_edittext
 string character_counter_content_description
 string character_counter_overflowed_content_description
 string character_counter_pattern
