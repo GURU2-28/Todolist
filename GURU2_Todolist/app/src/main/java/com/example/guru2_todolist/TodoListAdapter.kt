@@ -3,6 +3,7 @@ package com.example.guru2_todolist
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
+import android.widget.EditText
 import androidx.recyclerview.widget.RecyclerView
 import io.realm.OrderedRealmCollection
 import io.realm.RealmBaseAdapter
@@ -39,5 +40,5 @@ class TodoListAdapter(realmResult:OrderedRealmCollection<Todo>): RealmBaseAdapte
 }
 
 class ViewHolder(view : View){
-
+    val titleTextView:EditText=view.findViewById(R.id.edt_Todo)
 }

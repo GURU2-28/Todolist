@@ -1,7 +1,7 @@
-#Fri Feb 05 11:06:49 KST 2021
-base.0=C\:\\GURU\\Todolist\\GURU2_Todolist\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+#Fri Feb 05 16:49:15 KST 2021
+base.0=C\:\\Users\\wowmt\\Todolist\\GURU2_Todolist\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
 path.1=classes.dex
 renamed.1=classes2.dex
 path.0=classes.dex
 renamed.0=classes.dex
-base.1=C\:\\GURU\\Todolist\\GURU2_Todolist\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\classes.dex
+base.1=C\:\\Users\\wowmt\\Todolist\\GURU2_Todolist\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\classes.dex

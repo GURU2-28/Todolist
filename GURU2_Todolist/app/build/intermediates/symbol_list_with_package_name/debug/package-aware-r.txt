@@ -1545,11 +1545,13 @@ drawable design_ic_visibility_off
 drawable design_password_eye
 drawable design_snackbar_background
 drawable edittext_rounded_corner_rectangle
+drawable ic_baseline_access_time_24
 drawable ic_baseline_add_24
 drawable ic_baseline_control_point_24
 drawable ic_baseline_delete_24
 drawable ic_baseline_done_24
 drawable ic_baseline_menu_24
+drawable ic_baseline_post_add_24
 drawable ic_baseline_restore_from_trash_24
 drawable ic_baseline_sentiment_dissatisfied_24
 drawable ic_baseline_sentiment_satisfied_24
@@ -1663,6 +1665,8 @@ id action_text
 id actions
 id activity_chooser_view_content
 id add
+id addDateView
+id addFab
 id alertTitle
 id aligned
 id all
@@ -1682,9 +1686,6 @@ id beginning
 id blocking
 id bottom
 id bounce
-id btnComp
-id btnMemo
-id btn_OK
 id buttonPanel
 id cache_measures
 id calendarView
@@ -1721,7 +1722,6 @@ id decelerateAndComplete
 id decor_content_parent
 id default_activity_button
 id deleteFab
-id delete_Button
 id deltaRelative
 id dependency_ordering
 id design_bottom_sheet
@@ -1735,7 +1735,6 @@ id direct
 id disableHome
 id disablePostScroll
 id disableScroll
-id doneFab
 id dragDown
 id dragEnd
 id dragLeft
@@ -1799,9 +1798,9 @@ id linear
 id listMode
 id listView
 id list_item
-id mRecyclerView
 id masked
 id memo
+id menu_add
 id message
 id middle
 id mini
@@ -2113,6 +2112,7 @@ layout text_view_with_line_height_from_layout
 layout text_view_with_line_height_from_style
 layout text_view_with_theme_line_height
 layout text_view_without_line_height
+menu menu_add
 mipmap ic_launcher
 mipmap ic_launcher_round
 plurals mtrl_badge_content_description
