@@ -1797,6 +1797,7 @@ id line1
 id line3
 id linear
 id listMode
+id listView
 id list_item
 id mRecyclerView
 id masked
@@ -2041,7 +2042,7 @@ layout abc_select_dialog_material
 layout abc_tooltip
 layout activity_achieve
 layout activity_edit
-layout activity_main
+layout activity_list
 layout custom_dialog
 layout design_bottom_navigation_item
 layout design_bottom_sheet_dialog
@@ -2059,6 +2060,7 @@ layout design_navigation_menu_item
 layout design_text_input_end_icon
 layout design_text_input_start_icon
 layout fragment_main
+layout item_todo
 layout mtrl_alert_dialog
 layout mtrl_alert_dialog_actions
 layout mtrl_alert_dialog_title
@@ -2111,7 +2113,6 @@ layout text_view_with_line_height_from_layout
 layout text_view_with_line_height_from_style
 layout text_view_with_theme_line_height
 layout text_view_without_line_height
-layout todo_item
 mipmap ic_launcher
 mipmap ic_launcher_round
 plurals mtrl_badge_content_description
