@@ -37,7 +37,7 @@ class Title : AppCompatActivity() {
         titleText.text=spannableString
 
         btn_edit.setOnClickListener {
-            val intent = Intent(this,Activityedit::class.java)
+            val intent = Intent(this,MainActivity::class.java)
             startActivity(intent)
         }
 

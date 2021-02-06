@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Guru\\Todolist\\GURU2_Todolist\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v23\\values-v23.xml",
+            "outputFile": "C:\\GURU\\Todolist\\GURU2_Todolist\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v23\\values-v23.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\doitf\\.gradle\\caches\\transforms-2\\files-2.1\\3e8f049d2679a85ee7070fad4c3bd748\\appcompat-1.2.0\\res\\values-v23\\values-v23.xml",
+                    "source": "C:\\Users\\minj-L\\.gradle\\caches\\transforms-2\\files-2.1\\3e8f049d2679a85ee7070fad4c3bd748\\appcompat-1.2.0\\res\\values-v23\\values-v23.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,20,34,35,36,39,43,44,45,46",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -15,7 +15,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\doitf\\.gradle\\caches\\transforms-2\\files-2.1\\b4394bce191ad24f69d023621a0957f4\\cardview-1.0.0\\res\\values-v23\\values-v23.xml",
+                    "source": "C:\\Users\\minj-L\\.gradle\\caches\\transforms-2\\files-2.1\\b4394bce191ad24f69d023621a0957f4\\cardview-1.0.0\\res\\values-v23\\values-v23.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -34,7 +34,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\doitf\\.gradle\\caches\\transforms-2\\files-2.1\\b21dbe89e4b3a5397455c09b8ed15ae2\\material-1.2.1\\res\\values-v23\\values-v23.xml",
+                    "source": "C:\\Users\\minj-L\\.gradle\\caches\\transforms-2\\files-2.1\\b21dbe89e4b3a5397455c09b8ed15ae2\\material-1.2.1\\res\\values-v23\\values-v23.xml",
                     "from": {
                         "startLines": "2,6",
                         "startColumns": "4,4",

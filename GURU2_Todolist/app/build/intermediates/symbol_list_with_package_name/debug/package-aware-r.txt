@@ -1538,6 +1538,7 @@ drawable btn_radio_off_to_on_mtrl_animation
 drawable btn_radio_on_mtrl
 drawable btn_radio_on_to_off_mtrl_animation
 drawable button_round
+drawable checklisticon
 drawable design_bottom_navigation_item_background
 drawable design_fab_background
 drawable design_ic_visibility
@@ -1565,6 +1566,7 @@ drawable ic_mtrl_chip_checked_circle
 drawable ic_mtrl_chip_close_circle
 drawable icon
 drawable icon_completed
+drawable intro_btn_shape
 drawable material_ic_calendar_black_24dp
 drawable material_ic_clear_black_24dp
 drawable material_ic_edit_black_24dp
@@ -1597,6 +1599,8 @@ drawable notify_panel_notification_icon_bg
 drawable test_custom_background
 drawable tooltip_frame_dark
 drawable tooltip_frame_light
+font sdsamliphopangchettfbasic
+font sdsamliphopangchettfoutline
 id ALT
 id BOTTOM_END
 id BOTTOM_START
@@ -1688,6 +1692,8 @@ id beginning
 id blocking
 id bottom
 id bounce
+id btn_exit
+id btn_plan
 id buttonPanel
 id cache_measures
 id calendarView
@@ -1785,6 +1791,8 @@ id ifRoom
 id ignore
 id ignoreRequest
 id image
+id imageView
+id imageView2
 id info
 id invisible
 id italic
@@ -1862,6 +1870,7 @@ id pathRelative
 id peekHeight
 id percent
 id pin
+id popuptext
 id position
 id postLayout
 id progress_circular
@@ -1959,6 +1968,7 @@ id textinput_suffix_text
 id time
 id title
 id titleDividerNoCustom
+id titleText
 id title_template
 id todoEditText
 id toggle
@@ -2048,6 +2058,7 @@ layout abc_tooltip
 layout activity_achieve
 layout activity_edit
 layout activity_list
+layout activity_title
 layout custom_dialog
 layout design_bottom_navigation_item
 layout design_bottom_sheet_dialog
@@ -2064,6 +2075,7 @@ layout design_navigation_menu
 layout design_navigation_menu_item
 layout design_text_input_end_icon
 layout design_text_input_start_icon
+layout exit_popup
 layout fragment_main
 layout item_header
 layout item_main
