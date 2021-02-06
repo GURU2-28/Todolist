@@ -22,6 +22,7 @@ lateinit var titleText:TextView
 
 
 class Title : AppCompatActivity() {
+    //타이틀 추가
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_title)
@@ -57,7 +58,7 @@ class Title : AppCompatActivity() {
             1->textView.text="<시간>은 '할 일'이 있어야 쓴다"
             2->textView.text="<할 일을 주는 것>이 '시간의 축복'이다."
             3->textView.text="순간 순간의 세월을 헛되이 보내지 마라."
-            4->textView.text="10분 뒤와 10년후를 동시에 생각하라."
+            4->textView.text="당신은 지체할 수도 있지만 시간은 그러하지 않을 것이다"
         }
 
         val alterDialog = AlertDialog.Builder(this).
