@@ -23,7 +23,8 @@ lateinit var titleText:TextView
 
 class Title : AppCompatActivity() {
 
-    //타이틀 추가
+    //타이틀 액티비티
+    //exit_popup 타이틀에서 종료시 팝업용
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_title)
@@ -37,7 +38,7 @@ class Title : AppCompatActivity() {
         titleText.text=spannableString
 
         btn_edit.setOnClickListener {
-            val intent = Intent(this,Activityedit::class.java)
+            val intent = Intent(this,MainActivity::class.java)
             startActivity(intent)
         }
 
