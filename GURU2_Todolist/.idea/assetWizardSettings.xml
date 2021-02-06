@@ -3,11 +3,6 @@
   <component name="WizardSettings">
     <option name="children">
       <map>
-        <entry key="imageWizard">
-          <value>
-            <PersistentState />
-          </value>
-        </entry>
         <entry key="vectorWizard">
           <value>
             <PersistentState>
@@ -23,7 +18,7 @@
                                 <PersistentState>
                                   <option name="values">
                                     <map>
-                                      <entry key="url" value="file:/$PROJECT_DIR$/../../../Users/Public/icons/material/materialicons/done/baseline_done_24.xml" />
+                                      <entry key="url" value="file:/$USER_HOME$/AppData/Local/Android/Sdk/icons/material/materialicons/access_time/baseline_access_time_24.xml" />
                                     </map>
                                   </option>
                                 </PersistentState>
@@ -33,9 +28,9 @@
                         </option>
                         <option name="values">
                           <map>
-                            <entry key="color" value="ff0000" />
-                            <entry key="outputName" value="ic_baseline_done_24" />
-                            <entry key="sourceFile" value="C:\GURU\Todolist\GURU2_Todolist" />
+                            <entry key="color" value="c866c1" />
+                            <entry key="outputName" value="ic_baseline_access_time_24" />
+                            <entry key="sourceFile" value="C:\Users\wowmt\Todolist\GURU2_Todolist" />
                           </map>
                         </option>
                       </PersistentState>

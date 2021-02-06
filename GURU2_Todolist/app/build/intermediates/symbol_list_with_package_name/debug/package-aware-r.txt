@@ -1538,7 +1538,6 @@ drawable btn_radio_off_to_on_mtrl_animation
 drawable btn_radio_on_mtrl
 drawable btn_radio_on_to_off_mtrl_animation
 drawable button_round
-drawable checklisticon
 drawable design_bottom_navigation_item_background
 drawable design_fab_background
 drawable design_ic_visibility
@@ -1546,11 +1545,13 @@ drawable design_ic_visibility_off
 drawable design_password_eye
 drawable design_snackbar_background
 drawable edittext_rounded_corner_rectangle
+drawable ic_baseline_access_time_24
 drawable ic_baseline_add_24
 drawable ic_baseline_control_point_24
 drawable ic_baseline_delete_24
 drawable ic_baseline_done_24
 drawable ic_baseline_menu_24
+drawable ic_baseline_post_add_24
 drawable ic_baseline_restore_from_trash_24
 drawable ic_baseline_sentiment_dissatisfied_24
 drawable ic_baseline_sentiment_satisfied_24
@@ -1562,7 +1563,8 @@ drawable ic_mtrl_checked_circle
 drawable ic_mtrl_chip_checked_black
 drawable ic_mtrl_chip_checked_circle
 drawable ic_mtrl_chip_close_circle
-drawable intro_btn_shape
+drawable icon
+drawable icon_completed
 drawable material_ic_calendar_black_24dp
 drawable material_ic_clear_black_24dp
 drawable material_ic_edit_black_24dp
@@ -1595,8 +1597,6 @@ drawable notify_panel_notification_icon_bg
 drawable test_custom_background
 drawable tooltip_frame_dark
 drawable tooltip_frame_light
-font sdsamliphopangchettfbasic
-font sdsamliphopangchettfoutline
 id ALT
 id BOTTOM_END
 id BOTTOM_START
@@ -1667,6 +1667,8 @@ id action_text
 id actions
 id activity_chooser_view_content
 id add
+id addDateView
+id addFab
 id alertTitle
 id aligned
 id all
@@ -1686,11 +1688,6 @@ id beginning
 id blocking
 id bottom
 id bounce
-id btnComp
-id btnMemo
-id btn_OK
-id btn_exit
-id btn_plan
 id buttonPanel
 id cache_measures
 id calendarView
@@ -1712,6 +1709,7 @@ id clear_text
 id clip_horizontal
 id clip_vertical
 id collapseActionView
+id completedIconView
 id confirm_button
 id container
 id content
@@ -1727,7 +1725,6 @@ id decelerateAndComplete
 id decor_content_parent
 id default_activity_button
 id deleteFab
-id delete_Button
 id deltaRelative
 id dependency_ordering
 id design_bottom_sheet
@@ -1741,7 +1738,6 @@ id direct
 id disableHome
 id disablePostScroll
 id disableScroll
-id doneFab
 id dragDown
 id dragEnd
 id dragLeft
@@ -1789,11 +1785,12 @@ id ifRoom
 id ignore
 id ignoreRequest
 id image
-id imageView
-id imageView2
 id info
 id invisible
 id italic
+id itemContentView
+id itemHeaderView
+id itemTitleView
 id item_touch_helper_previous_elevation
 id jumpToEnd
 id jumpToStart
@@ -1807,9 +1804,9 @@ id linear
 id listMode
 id listView
 id list_item
-id mRecyclerView
 id masked
 id memo
+id menu_add
 id message
 id middle
 id mini
@@ -1865,7 +1862,6 @@ id pathRelative
 id peekHeight
 id percent
 id pin
-id popuptext
 id position
 id postLayout
 id progress_circular
@@ -1963,7 +1959,6 @@ id textinput_suffix_text
 id time
 id title
 id titleDividerNoCustom
-id titleText
 id title_template
 id todoEditText
 id toggle
@@ -2053,7 +2048,6 @@ layout abc_tooltip
 layout activity_achieve
 layout activity_edit
 layout activity_list
-layout activity_title
 layout custom_dialog
 layout design_bottom_navigation_item
 layout design_bottom_sheet_dialog
@@ -2070,8 +2064,9 @@ layout design_navigation_menu
 layout design_navigation_menu_item
 layout design_text_input_end_icon
 layout design_text_input_start_icon
-layout exit_popup
 layout fragment_main
+layout item_header
+layout item_main
 layout item_todo
 layout mtrl_alert_dialog
 layout mtrl_alert_dialog_actions
@@ -2125,6 +2120,7 @@ layout text_view_with_line_height_from_layout
 layout text_view_with_line_height_from_style
 layout text_view_with_theme_line_height
 layout text_view_without_line_height
+menu menu_add
 mipmap ic_launcher
 mipmap ic_launcher_round
 plurals mtrl_badge_content_description
