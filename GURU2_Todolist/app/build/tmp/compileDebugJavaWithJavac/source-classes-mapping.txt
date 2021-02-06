@@ -1,30 +1,30 @@
 com/example/guru2_todolist/databinding/ItemHeaderBinding.java
  com.example.guru2_todolist.databinding.ItemHeaderBinding
-io/realm/com_example_guru2_todolist_TodoRealmProxyInterface.java
- io.realm.com_example_guru2_todolist_TodoRealmProxyInterface
-com/example/guru2_todolist/databinding/ExitPopupBinding.java
- com.example.guru2_todolist.databinding.ExitPopupBinding
-io/realm/DefaultRealmModule.java
- io.realm.DefaultRealmModule
-com/example/guru2_todolist/databinding/ActivityAchieveBinding.java
- com.example.guru2_todolist.databinding.ActivityAchieveBinding
-com/example/guru2_todolist/databinding/FragmentMainBinding.java
- com.example.guru2_todolist.databinding.FragmentMainBinding
-io/realm/DefaultRealmModuleMediator.java
- io.realm.DefaultRealmModuleMediator
 com/example/guru2_todolist/BuildConfig.java
  com.example.guru2_todolist.BuildConfig
 com/example/guru2_todolist/databinding/ActivityTitleBinding.java
  com.example.guru2_todolist.databinding.ActivityTitleBinding
 com/example/guru2_todolist/databinding/ItemTodoBinding.java
  com.example.guru2_todolist.databinding.ItemTodoBinding
+com/example/guru2_todolist/databinding/ExitPopupBinding.java
+ com.example.guru2_todolist.databinding.ExitPopupBinding
 com/example/guru2_todolist/databinding/ItemMainBinding.java
  com.example.guru2_todolist.databinding.ItemMainBinding
 com/example/guru2_todolist/databinding/ActivityEditBinding.java
  com.example.guru2_todolist.databinding.ActivityEditBinding
+com/example/guru2_todolist/databinding/ActivityAchieveBinding.java
+ com.example.guru2_todolist.databinding.ActivityAchieveBinding
+com/example/guru2_todolist/databinding/ActivityListBinding.java
+ com.example.guru2_todolist.databinding.ActivityListBinding
+com/example/guru2_todolist/databinding/FragmentMainBinding.java
+ com.example.guru2_todolist.databinding.FragmentMainBinding
+io/realm/com_example_guru2_todolist_TodoRealmProxyInterface.java
+ io.realm.com_example_guru2_todolist_TodoRealmProxyInterface
+io/realm/DefaultRealmModuleMediator.java
+ io.realm.DefaultRealmModuleMediator
+io/realm/DefaultRealmModule.java
+ io.realm.DefaultRealmModule
 io/realm/com_example_guru2_todolist_TodoRealmProxy.java
  io.realm.com_example_guru2_todolist_TodoRealmProxy
  io.realm.com_example_guru2_todolist_TodoRealmProxy$ClassNameHelper
  io.realm.com_example_guru2_todolist_TodoRealmProxy$TodoColumnInfo
-com/example/guru2_todolist/databinding/ActivityListBinding.java
- com.example.guru2_todolist.databinding.ActivityListBinding

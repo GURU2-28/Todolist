@@ -1755,8 +1755,7 @@ id easeIn
 id easeInOut
 id easeOut
 id edit_query
-id edt_Todo
-id edtbar
+id edt_todo
 id end
 id enterAlways
 id enterAlwaysCollapsed

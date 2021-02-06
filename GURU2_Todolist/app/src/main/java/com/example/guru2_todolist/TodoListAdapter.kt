@@ -40,5 +40,5 @@ class TodoListAdapter(realmResult:OrderedRealmCollection<Todo>): RealmBaseAdapte
 }
 
 class ViewHolder(view : View){
-    val titleTextView:EditText=view.findViewById(R.id.edt_Todo)
+    val titleTextView:EditText=view.findViewById(R.id.edt_todo)
 }
