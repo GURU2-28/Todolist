@@ -47,9 +47,18 @@ class AddActivity : AppCompatActivity() {
         if(item.itemId==R.id.menu_add){
             if(edt_Todo.text.toString()!=null && memo.text.toString()!=null){
                 val contentValues= ContentValues()
+               // val helper = DBHelper(this)
+               // val db = helper.writableDatabase
+
                 contentValues.put("title",edt_Todo.text.toString())
                 contentValues.put("content",memo.text.toString())
                 contentValues.put("date",addDateView.text.toString())
+                contentValues.put("completed", 0)
+
+                //db.insert("tb_todo", null, contentValues)
+
+                //db.close()
+
                 setResult(Activity.RESULT_OK)
                 finish()
             }else{
