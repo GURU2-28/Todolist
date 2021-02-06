@@ -10,8 +10,10 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.GURU2_Todolist">
-        <activity android:name=".EditActivity"></activity>
-        <activity android:name=".MainActivity">
+        <activity android:name=".Activityedit"></activity>
+        <activity android:name=".MainActivity" />
+        <activity android:name=".Achievement" />
+        <activity android:name=".Title">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

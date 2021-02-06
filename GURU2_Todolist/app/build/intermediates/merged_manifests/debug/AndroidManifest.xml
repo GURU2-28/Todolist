@@ -20,8 +20,10 @@
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/Theme.GURU2_Todolist" >
-        <activity android:name="com.example.guru2_todolist.EditActivity" />
-        <activity android:name="com.example.guru2_todolist.MainActivity" >
+        <activity android:name="com.example.guru2_todolist.Activityedit" />
+        <activity android:name="com.example.guru2_todolist.MainActivity" />
+        <activity android:name="com.example.guru2_todolist.Achievement" />
+        <activity android:name="com.example.guru2_todolist.Title" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
