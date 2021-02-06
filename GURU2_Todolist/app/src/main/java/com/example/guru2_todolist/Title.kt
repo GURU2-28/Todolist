@@ -22,6 +22,7 @@ lateinit var titleText:TextView
 
 
 class Title : AppCompatActivity() {
+
     //타이틀 추가
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
