@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\GURU\\Todolist\\GURU2_Todolist\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-large-v4\\values-large-v4.xml",
+            "outputFile": "C:\\Guru\\Todolist\\GURU2_Todolist\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-large-v4\\values-large-v4.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\minj-L\\.gradle\\caches\\transforms-2\\files-2.1\\3e8f049d2679a85ee7070fad4c3bd748\\appcompat-1.2.0\\res\\values-large-v4\\values-large-v4.xml",
+                    "source": "C:\\Users\\doitf\\.gradle\\caches\\transforms-2\\files-2.1\\3e8f049d2679a85ee7070fad4c3bd748\\appcompat-1.2.0\\res\\values-large-v4\\values-large-v4.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10",
                         "startColumns": "4,4,4,4,4,4,4,4,4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\minj-L\\.gradle\\caches\\transforms-2\\files-2.1\\b21dbe89e4b3a5397455c09b8ed15ae2\\material-1.2.1\\res\\values-large-v4\\values-large-v4.xml",
+                    "source": "C:\\Users\\doitf\\.gradle\\caches\\transforms-2\\files-2.1\\b21dbe89e4b3a5397455c09b8ed15ae2\\material-1.2.1\\res\\values-large-v4\\values-large-v4.xml",
                     "from": {
                         "startLines": "2,3",
                         "startColumns": "4,4",

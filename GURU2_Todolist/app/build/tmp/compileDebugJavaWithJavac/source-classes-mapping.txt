@@ -1,3 +1,5 @@
+com/example/guru2_todolist/databinding/ItemHeaderBinding.java
+ com.example.guru2_todolist.databinding.ItemHeaderBinding
 io/realm/com_example_guru2_todolist_TodoRealmProxyInterface.java
  io.realm.com_example_guru2_todolist_TodoRealmProxyInterface
 io/realm/DefaultRealmModuleMediator.java
@@ -6,6 +8,8 @@ com/example/guru2_todolist/BuildConfig.java
  com.example.guru2_todolist.BuildConfig
 com/example/guru2_todolist/databinding/ItemTodoBinding.java
  com.example.guru2_todolist.databinding.ItemTodoBinding
+com/example/guru2_todolist/databinding/ItemMainBinding.java
+ com.example.guru2_todolist.databinding.ItemMainBinding
 io/realm/DefaultRealmModule.java
  io.realm.DefaultRealmModule
 com/example/guru2_todolist/databinding/ActivityEditBinding.java
